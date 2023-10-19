@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Kamustaka
 Madlang human
 Madlang pipols
@@ -6,3 +7,5 @@ Madlang pipols
 hello everyone
 Madlang pipol
 >>>>>>> parent of 26969cc (Kumusta ka)
+=======
+>>>>>>> parent of 64abc23 (hello everyone)
